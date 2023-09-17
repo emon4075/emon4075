@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emon</h1>
-<h3 align="center">A passionate CSE student from Bangladesh.</h3>
+<h2 align="center">Studying CSE at University of Chittagong 👨‍💻</h2>
+<h3 align="center">A Passionate Tech Addict from &#x1f1e7</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon4075&label=Profile%20views&color=0e75b6&style=flat" alt="emon4075" /> </p>
 
