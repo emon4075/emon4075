@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **C & C++**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://emon4075.netlify.app/](https://emon4075.netlify.app/)
 
