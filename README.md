@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emon</h1>
-<h3 align="center">A passionate CSE student from Bangladesh.</h3>
+<h2 align="center">Studying CSE at University of Chittagong 👨‍💻</h2>
+<h3 align="center">A Passionate Tech Addict from 🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon4075&label=Profile%20views&color=0e75b6&style=flat" alt="emon4075" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **C & C++**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://emon4075.netlify.app/](https://emon4075.netlify.app/)
 
