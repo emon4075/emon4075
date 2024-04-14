@@ -3,9 +3,12 @@
 <h2 align="center">Studying CSE at University of Chittagong 👨‍💻</h2>
 <h3 align="center">A Passionate Tech Addict from 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon4075&label=Profile%20views&color=0e75b6&style=flat" alt="emon4075" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=emon4075&color=brightgreen" alt="watching_count" />
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Demon4075&longCache=true"/>
+<img src="https://img.shields.io/github/stars/emon4075?label=Stars" alt="stars">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon4075" alt="emon4075" /></a> </p>
 
 - 🔭 I’m currently working on **Problem Solving**
 
@@ -15,12 +18,10 @@
 
 - 💬 Ask me about **C,C++,HTML,CSS,Git,GitHub**
 
-- 📫 How to reach me **mdabdullahemon4075@gmail.com**
-
 - ⚡ Fun fact **I Love Coding & Biryani more than anything else!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/mdabdullahemon4075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabdullahemon4075" height="30" width="40" /></a>
 <a href="https://fb.com/abdullahal.emon.5070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahal.emon.5070" height="30" width="40" /></a>
 <a href="https://medium.com/@mdabdullahemon4075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdabdullahemon4075" height="30" width="40" /></a>
@@ -41,9 +42,15 @@
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=emon4075)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=emon4075)](https://codeforces.com/profile/redheadphone)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon4075&show_icons=true&locale=en&layout=compact" alt="emon4075" /></p>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=emon4075)](https://codeforces.com/profile/emon4075)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon4075&show_icons=true&locale=en" alt="emon4075" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon4075&" alt="emon4075" /></p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mdabdullahemon4075?theme=wtf)](https://leetcode.com/mdabdullahemon4075)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emon4075&theme=buefy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emon4075&theme=buefy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emon4075&theme=buefy)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=emon4075&theme=whatsapp-light2&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
