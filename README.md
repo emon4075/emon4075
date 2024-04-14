@@ -1,5 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Emon</h1>
+<p align="center">
+<img width="200" src="https://media.giphy.com/media/PsEp528DkALy2J6VOK/giphy.gif?cid=ecf05e47e91soxk4ecdrt7bu7b8yu3jbzc052altfsefkajd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
+<h1 align="center"><img width="40" src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif?cid=790b761141ydc3jk63gd0lm1taytbcpik3j3npdq9kaebbwu&ep=v1_stickers_search&rid=giphy.gif&ct=s">  I'm Emon</h1>
+<p align="center">
+<img width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR6eTB4Y3F3bXltbTZ6NHFhZ2NucWJidXBxaTNkdXV5cXE3ZDZqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t55Z9DfCKaVqE4thhK/giphy.gif">
+</p>
 <h2 align="center">Studying CSE at University of Chittagong 👨‍💻</h2>
 <h3 align="center">A Passionate Tech Addict from 🇧🇩</h3>
 
