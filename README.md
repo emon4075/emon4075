@@ -38,6 +38,10 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=emon4075)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=emon4075)](https://codeforces.com/profile/emon4075)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mdabdullahemon4075?theme=wtf)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon4075&show_icons=true&locale=en&layout=compact" alt="emon4075" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon4075&show_icons=true&locale=en" alt="emon4075" /></p>
