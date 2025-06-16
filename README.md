@@ -1,62 +1,165 @@
+<div align="center">
+  
+# 🚀 Welcome to My Universe! 
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Md.+ Abdullah+Al+Mamun+Emon+%F0%9F%91%8B;CSE+Student+%7C+Problem+Solver;Tech+Enthusiast+%7C+Code+Artist;Always+Learning+%2C+Always+Growing!" alt="Typing SVG" />
 
-<p align="center">
-<img width="200" src="https://media.giphy.com/media/PsEp528DkALy2J6VOK/giphy.gif?cid=ecf05e47e91soxk4ecdrt7bu7b8yu3jbzc052altfsefkajd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</p>
-<h1 align="center"><img width="40" src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif?cid=790b761141ydc3jk63gd0lm1taytbcpik3j3npdq9kaebbwu&ep=v1_stickers_search&rid=giphy.gif&ct=s">  I'm Emon</h1>
-<p align="center">
-<img width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR6eTB4Y3F3bXltbTZ6NHFhZ2NucWJidXBxaTNkdXV5cXE3ZDZqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t55Z9DfCKaVqE4thhK/giphy.gif">
-</p>
-<h2 align="center">Studying CSE at University of Chittagong 👨‍💻</h2>
-<h3 align="center">A Passionate Tech Addict from 🇧🇩</h3>
+<img width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm8xanh4dHhqajdrejFrZHc1ZnJ1cHR3NGhjNDZkaHlndnU1ZXF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" alt="Coding Animation">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=emon4075&color=brightgreen" alt="watching_count" />
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Demon4075&longCache=true"/>
-<img src="https://img.shields.io/github/stars/emon4075?label=Stars" alt="stars">
-</p>
+</div>
 
+---
 
-- 🔭 I’m currently working on **Problem Solving**
+## 🎯 About Me
 
-- 🌱 I’m currently learning **DSA**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-49ts.onrender.com/](https://my-portfolio-49ts.onrender.com/)
+```yaml
+name: Abdullah Al Emon
+located_in: Chittagong, Bangladesh 🇧🇩
+education: Computer Science & Engineering
+university: University of Chittagong
+current_focus: Data Structures & Algorithms
+passion: ["Problem Solving", "Competitive Programming", "Web Development"]
+fun_fact: "Code + Biryani = Perfect Day! 🍛"
+```
 
-- 💬 Ask me about **C,C++,HTML,CSS,Git,GitHub**
+- 🔭 **Currently Working On:** Mastering Data Structures & Algorithms
+- 🌱 **Learning Journey:** Advanced Problem Solving Techniques
+- 🎯 **Goal:** Becoming a skilled Software Engineer
+- 💡 **Ask Me About:** C/C++, Web Development, Git/GitHub
+- 📫 **Reach Me:** [Portfolio](https://my-portfolio-49ts.onrender.com/) | [Email](mailto:mdabdullahemon4075@gmail.com)
 
-- ⚡ Fun fact **I Love Coding & Biryani more than anything else!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/mdabdullahemon4075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabdullahemon4075" height="30" width="40" /></a>
-<a href="https://fb.com/abdullahal.emon.5070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahal.emon.5070" height="30" width="40" /></a>
-<a href="https://medium.com/@mdabdullahemon4075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdabdullahemon4075" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mdabdullahemon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdabdullahemon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mdabdullahemon41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdabdullahemon41" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/emon4075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="emon4075" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdabdullahemon4075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdabdullahemon4075" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Arsenal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,linux,neovim,latex,arduino,discord," />
-  </a>
-</p>
+<div align="center">
 
-<h3 align="left">Stats:</h3>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" alt="Programming Languages" />
 
+### Tools & Technologies  
+<img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,latex,arduino" alt="Tools" />
+
+### Platforms & Databases
+<img src="https://skillicons.dev/icons?i=discord,figma,photoshop" alt="Platforms" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdabdullahemon4075)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abdullahal.emon.5070)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mdabdullahemon4075)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-49ts.onrender.com/)
+
+### 🏆 Competitive Programming Profiles
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/emon4075)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mdabdullahemon4075)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mdabdullahemon)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mdabdullahemon41)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=emon4075&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/emon4075?label=Followers&style=for-the-badge&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/emon4075?label=Stars&style=for-the-badge&color=yellow)
+
+</div>
+
+### 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emon4075&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon4075&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+### 🔥 Contribution Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=emon4075&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+### 📊 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emon4075&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 Competitive Programming Stats
+
+<div align="center">
+  
+### Codeforces Performance
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=emon4075)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=emon4075)](https://codeforces.com/profile/emon4075)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=emon4075&theme=dark)](https://codeforces.com/profile/emon4075)
 
+### LeetCode Journey
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mdabdullahemon4075?theme=dark&font=Karma&ext=contest)](https://leetcode.com/mdabdullahemon4075)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mdabdullahemon4075?theme=wtf)](https://leetcode.com/mdabdullahemon4075)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emon4075&theme=buefy)
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emon4075&theme=buefy)
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emon4075&theme=buefy)
+## 🎨 GitHub Profile Summary
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emon4075&theme=radical" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=emon4075&theme=whatsapp-light2&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emon4075&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emon4075&theme=radical" />
+</div>
+
+---
+
+## 🎵 Currently Jamming To
+<div align="center">
+  
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your-spotify-username)
+  
+</div>
+
+---
+
+## 💭 Random Dev Quote
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 😂 Random Tech Humor
+<div align="center">
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+⭐️ From [emon4075](https://github.com/emon4075) | Made with ❤️ and lots of ☕
+
+</div>
