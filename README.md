@@ -2,7 +2,7 @@
   
 # 🚀 Welcome to My Universe! 
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Md.+ Abdullah+Al+Mamun+Emon+%F0%9F%91%8B;CSE+Student+%7C+Problem+Solver;Tech+Enthusiast+%7C+Code+Artist;Always+Learning+%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Md.+ Abdullah+Al+Mamun+Emon+%F0%9F%91%8B;CSE+Student+%7C+Problem+Solver;Tech+Enthusiast+%7C+Code+Artist;Always+Learning+%2C+Always+Growing!" alt="" />
 
 <img width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm8xanh4dHhqajdrejFrZHc1ZnJ1cHR3NGhjNDZkaHlndnU1ZXF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" alt="Coding Animation">
 
