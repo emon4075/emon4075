@@ -68,6 +68,19 @@ fun_fact: "Code + Biryani = Perfect Day! 🍛"
 
 ---
 
+## 📝 Latest Medium Article
+
+<div align="center">
+
+<!-- Medium Readme Card -->
+[![Medium Articles](https://github-readme-medium-recent-article.vercel.app/medium/@emon4075/0)](https://medium.com/@emon4075)
+
+</div>
+
+
+---
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
