@@ -80,6 +80,13 @@ fun_fact: "Code + Biryani = Perfect Day! 🍛"
 
 ---
 
+## 💤 Dev Dashboard
+<div align="center">
+  <a href="https://app.daily.dev/emon4075"><img src="https://api.daily.dev/devcards/v2/pulwUow91iyZ1MuJqcvCU.png?type=default&r=khw" width="356" alt="Md. Abdullah Al Mamun Emon's Dev Card"/></a>
+</div>
+
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -94,7 +101,6 @@ fun_fact: "Code + Biryani = Perfect Day! 🍛"
 ### 📈 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emon4075&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon4075&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ### 🔥 Contribution Streak
